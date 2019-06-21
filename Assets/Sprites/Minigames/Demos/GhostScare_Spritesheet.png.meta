@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 6e865c98fad6e2a48911585433ccae0a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GhostScare_Spritesheet_0
+    21300002: GhostScare_Spritesheet_1
+    21300004: GhostScare_Spritesheet_2
+    21300006: GhostScare_Spritesheet_3
+    21300008: GhostScare_Spritesheet_4
+    21300010: GhostScare_Spritesheet_5
+    21300012: GhostScare_Spritesheet_6
+    21300014: GhostScare_Spritesheet_7
+    21300016: GhostScare_Spritesheet_8
+    21300018: GhostScare_Spritesheet_9
+    21300020: GhostScare_Spritesheet_10
+    21300022: GhostScare_Spritesheet_11
+    21300024: GhostScare_Spritesheet_12
+    21300026: GhostScare_Spritesheet_13
+    21300028: GhostScare_Spritesheet_14
+    21300030: GhostScare_Spritesheet_15
+    21300032: GhostScare_Spritesheet_16
+    21300034: GhostScare_Spritesheet_17
+    21300036: GhostScare_Spritesheet_18
+    21300038: GhostScare_Spritesheet_19
+    21300040: GhostScare_Spritesheet_20
+    21300042: GhostScare_Spritesheet_21
+    21300044: GhostScare_Spritesheet_22
+    21300046: GhostScare_Spritesheet_23
+    21300048: GhostScare_Spritesheet_24
+    21300050: GhostScare_Spritesheet_25
+    21300052: GhostScare_Spritesheet_26
+    21300054: GhostScare_Spritesheet_27
+    21300056: GhostScare_Spritesheet_28
+    21300058: GhostScare_Spritesheet_29
+    21300060: GhostScare_Spritesheet_30
+    21300062: GhostScare_Spritesheet_31
+    21300064: GhostScare_Spritesheet_32
+    21300066: GhostScare_Spritesheet_33
+    21300068: GhostScare_Spritesheet_34
+    21300070: GhostScare_Spritesheet_35
+    21300072: GhostScare_Spritesheet_36
+    21300074: GhostScare_Spritesheet_37
+    21300076: GhostScare_Spritesheet_38
+    21300078: GhostScare_Spritesheet_39
+    21300080: GhostScare_Spritesheet_40
+    21300082: GhostScare_Spritesheet_41
+    21300084: GhostScare_Spritesheet_42
+    21300086: GhostScare_Spritesheet_43
+    21300088: GhostScare_Spritesheet_44
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37697d2c865ac744da32ea99165cefb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2688
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9e69272fdde6d4d9dce963d37d0064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2688
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592d0fe791def0340a7fa52ad1b33665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2688
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822456b21109131438f4ef6c8bb4ee6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2688
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70949f5b6addde24ebd2e5348c44d5a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2352
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995d30273b3c7664c86967a33e6550ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2352
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac2c86f873562d4da977e90620cae94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2352
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd4afd116000174e96e211286318db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2352
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1922f1b562e0641add4c0d53a49ec9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2352
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df15df8dee23534295de9909df05ea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aa3bc422638c44cb82a078db7904b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2016
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d0e7d8c5af2fa459b1991050f1360d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2016
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837faddb21363a143b3523587b435fb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2016
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20647555693aa1048a2e3815eb0788b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2016
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6feeb41e1db614ea49c238b9342364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf38b769826c2745b107ccc87f905f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1680
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70615691885d0df4485a91179131d9c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1680
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25475366abe90574c90d0b6a5353772d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1680
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cf7ba492c4d0f4ca9bb73cb015d147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1680
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d940afc4a3ebb1443872ccde25d09b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e90f6f912923943b2139e330021269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1344
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa7c3130054ffd4e9d7d1d11ddd09d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1344
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e575b8792f84beb4d857a64835996d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1344
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e650ac260f3e2554080b8c42625a18d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1344
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76990451b319fb4f8476d23f100e881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c681a1e89daf0404f8c132998df983fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1008
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e21d3c0f5e8f2540acf54ee1c4f3803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1008
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62cb23f6c4c7d418ff48f97e44bf45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1008
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf396aed4041c4eae1dbeffed4a275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1008
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95c4f538378d3c409b4cf4cd843bd7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98602524bde725246a3c8e5949fa8256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 672
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78e7f909fcc22a4ba19d5638c498cbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 672
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75f03b5fb0f027479cc30cda1c11917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 672
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f5b5714385d4438ab2c3e7859e891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 672
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ecf8f8b3e43fe45ba1c20649f3d434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ea2fb053b7704aaf63784a1f76a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 336
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c62d06ea705c64082585d558647e92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 336
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44e2a53a5b9560448f7a5ffd9f75a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 336
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21692b4587c2ae45968194e8062942e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 336
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e0e622314c22409439eeb8f001450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92cae7155ca7394abfcdff998d68730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859f24ec854906b4cbd300a6ead97222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdba6f8fb8c8ae740a0aa7cb02d87763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d867e838e8847134da04792a6b9d6b32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostScare_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a95c4fac92e9847b2bf81ea8a8cd13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c8b3e7d96c03214b81e0a4714454950
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

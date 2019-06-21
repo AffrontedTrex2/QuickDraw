@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 0b8d70c62077e64439ab230c07f6414b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stomp_Spritesheet_0
+    21300002: Stomp_Spritesheet_1
+    21300004: Stomp_Spritesheet_2
+    21300006: Stomp_Spritesheet_3
+    21300008: Stomp_Spritesheet_4
+    21300010: Stomp_Spritesheet_5
+    21300012: Stomp_Spritesheet_6
+    21300014: Stomp_Spritesheet_7
+    21300016: Stomp_Spritesheet_8
+    21300018: Stomp_Spritesheet_9
+    21300020: Stomp_Spritesheet_10
+    21300022: Stomp_Spritesheet_11
+    21300024: Stomp_Spritesheet_12
+    21300026: Stomp_Spritesheet_13
+    21300028: Stomp_Spritesheet_14
+    21300030: Stomp_Spritesheet_15
+    21300032: Stomp_Spritesheet_16
+    21300034: Stomp_Spritesheet_17
+    21300036: Stomp_Spritesheet_18
+    21300038: Stomp_Spritesheet_19
+    21300040: Stomp_Spritesheet_20
+    21300042: Stomp_Spritesheet_21
+    21300044: Stomp_Spritesheet_22
+    21300046: Stomp_Spritesheet_23
+    21300048: Stomp_Spritesheet_24
+    21300050: Stomp_Spritesheet_25
+    21300052: Stomp_Spritesheet_26
+    21300054: Stomp_Spritesheet_27
+    21300056: Stomp_Spritesheet_28
+    21300058: Stomp_Spritesheet_29
+    21300060: Stomp_Spritesheet_30
+    21300062: Stomp_Spritesheet_31
+    21300064: Stomp_Spritesheet_32
+    21300066: Stomp_Spritesheet_33
+    21300068: Stomp_Spritesheet_34
+    21300070: Stomp_Spritesheet_35
+    21300072: Stomp_Spritesheet_36
+    21300074: Stomp_Spritesheet_37
+    21300076: Stomp_Spritesheet_38
+    21300078: Stomp_Spritesheet_39
+    21300080: Stomp_Spritesheet_40
+    21300082: Stomp_Spritesheet_41
+    21300084: Stomp_Spritesheet_42
+    21300086: Stomp_Spritesheet_43
+    21300088: Stomp_Spritesheet_44
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2376
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa17fa6203dd8794b98f4b7b57026e13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2376
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9df7dedd3b507e4f97d6a5a2de7082a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2376
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11510bad129c091418dfe66c8b937116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2376
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b9ff45c6c55924391b80d9a29b5f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2376
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ee5226c27b871429a404976d5e386a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2079
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9599a25425809848ae9ac42cde6a325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2079
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7200a996f62a2342a8c25c440417ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2079
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059a14c884d15e040ac37a9a97964bfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2079
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3653051b249af344be155fb442c9c88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2079
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afea3513ce91fd4386ff63e66bd6f8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1782
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83a9dd2432ebc5449a22daea032a020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1782
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e66868cd5ea8d140b8b2fcd0daf0b08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1782
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39bcf6f054d52f4d83725d94be1a1e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1782
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c43c6bfff8db934fa4f591684d3630b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1782
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc498f0b731b485469d4dd261a40c2fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1485
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ea1146deb1a7443b72fc30c5ef93da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1485
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44301faaa26e37409faba24e832318c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1485
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43357c32629b45448b5c7ecbff86f370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1485
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ba29a2ac5f3340b3519d49c2d65a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1485
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef11e0e78d7ad444ca083ac3ea3f52fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1188
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17209008d202b744998aea05355c49a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1188
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caca1f7e7a82a264b99eccda6605b0aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1188
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f011a25b76f4b094e8cf7762c929576d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1188
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a57e34d6fd41549b3e86320c572152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1188
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f8d32b18f3f745b05ed09afe2116e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 891
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f549a0467e9ea24abebfdde8b795162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 891
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2ee50049bc7024b8190449ce59fb35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 891
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ce713a5b3dd2a4eb4d3fdf2f3e50d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 891
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c0ece536d353f4a81db7b0c0b22b6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 891
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d13ddc5423729f48a8e92f8053cfb76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15edcdbfabe25f64c9a07e8ece0d235b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 594
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75128988a60aaf4d9ed47d32bd2d714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 594
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dc6baaaa0afc446ab0b527b3237f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 594
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f43783aa3d1ce849a6e88e43e1e6293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 594
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0168f158667ab47a5e203955c5a79c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95d2dd436df43148bc118c5c36c7d79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 297
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e5569ca5f490c498b744c7b689aef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 297
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ccb88aec19ef947a8ee0aa1e5f36d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 297
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421fbe4bfce4d1c4bb416902029901ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 297
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf0dd54e371754ea1eb10127dc867f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f8c509afb776e4e9001e1e374fe2b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56847d98514db9644b2a13f518530541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dd79147943b3e459ce95da54b70578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a2a3b326add814abd2cd12e42accd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8a0b90477f7a14c836202dcac2faa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1575dd88159971f4c9623e0e9edbc6a5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

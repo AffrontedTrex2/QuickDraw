@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 8002ef96a6bee1943906b26446e29486
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ChainsawBackstab_Spritesheet_0
+    21300002: ChainsawBackstab_Spritesheet_1
+    21300004: ChainsawBackstab_Spritesheet_2
+    21300006: ChainsawBackstab_Spritesheet_3
+    21300008: ChainsawBackstab_Spritesheet_4
+    21300010: ChainsawBackstab_Spritesheet_5
+    21300012: ChainsawBackstab_Spritesheet_6
+    21300014: ChainsawBackstab_Spritesheet_7
+    21300016: ChainsawBackstab_Spritesheet_8
+    21300018: ChainsawBackstab_Spritesheet_9
+    21300020: ChainsawBackstab_Spritesheet_10
+    21300022: ChainsawBackstab_Spritesheet_11
+    21300024: ChainsawBackstab_Spritesheet_12
+    21300026: ChainsawBackstab_Spritesheet_13
+    21300028: ChainsawBackstab_Spritesheet_14
+    21300030: ChainsawBackstab_Spritesheet_15
+    21300032: ChainsawBackstab_Spritesheet_16
+    21300034: ChainsawBackstab_Spritesheet_17
+    21300036: ChainsawBackstab_Spritesheet_18
+    21300038: ChainsawBackstab_Spritesheet_19
+    21300040: ChainsawBackstab_Spritesheet_20
+    21300042: ChainsawBackstab_Spritesheet_21
+    21300044: ChainsawBackstab_Spritesheet_22
+    21300046: ChainsawBackstab_Spritesheet_23
+    21300048: ChainsawBackstab_Spritesheet_24
+    21300050: ChainsawBackstab_Spritesheet_25
+    21300052: ChainsawBackstab_Spritesheet_26
+    21300054: ChainsawBackstab_Spritesheet_27
+    21300056: ChainsawBackstab_Spritesheet_28
+    21300058: ChainsawBackstab_Spritesheet_29
+    21300060: ChainsawBackstab_Spritesheet_30
+    21300062: ChainsawBackstab_Spritesheet_31
+    21300064: ChainsawBackstab_Spritesheet_32
+    21300066: ChainsawBackstab_Spritesheet_33
+    21300068: ChainsawBackstab_Spritesheet_34
+    21300070: ChainsawBackstab_Spritesheet_35
+    21300072: ChainsawBackstab_Spritesheet_36
+    21300074: ChainsawBackstab_Spritesheet_37
+    21300076: ChainsawBackstab_Spritesheet_38
+    21300078: ChainsawBackstab_Spritesheet_39
+    21300080: ChainsawBackstab_Spritesheet_40
+    21300082: ChainsawBackstab_Spritesheet_41
+    21300084: ChainsawBackstab_Spritesheet_42
+    21300086: ChainsawBackstab_Spritesheet_43
+    21300088: ChainsawBackstab_Spritesheet_44
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d236efa2708d045a6806ddfdeb6bbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2688
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4868a68c5029e4fa7eb2de442ba385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2688
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27b2da1877e50244a752219191f8511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2688
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8308ba279a5d0940a0621947cae084d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2688
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6612e44873c25a04f8d6d8f09194a946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2352
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548f6c1bfdf43f445984480af7ae610a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2352
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a64e2b997deb441938d26e9298fcb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2352
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10b2e3d1eeee0d47ad23b08a56afd0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2352
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de64eacf14ed4149ae1bd42a7b8df6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2352
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7013d18a88d086346b4cccc53a7b7094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad03be411b0b4a47ae97796aac1d70e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2016
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624304cf6298eda4a9dcd11d47fe1796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2016
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ebb63a4c7cdb24cad34b914b07ff95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2016
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2529583b9c773ed4ea70aa8bfa68b773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2016
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa6313dc1bf77e41b39a4b760018c10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec3864ec61c7ff429b545deeacf2ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1680
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a86df5672cd5f4c8d2073629c40bd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1680
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb0b10fd9186634681e209b6e659695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1680
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c69b2945db773419d78e6c9510216b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1680
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78efcb8e8faed146990e3fe9f7d46d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b27d89b4504eb4ea95735bcca98c42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1344
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814a0e1d06355ec4aaa05d909c69a3f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1344
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea04e6cdf4013742927ff06b78e5c46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1344
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92260ac7a03c9a48812c7bde657fa99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1344
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf158cc85f99ce4080d547c40ee9553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3966455b41db04aaadd7cfc88d5ba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1008
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4dfaed4180e114b81eac190a44b85e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1008
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85598ab06f39db40a5cc91863907d5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1008
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efa1ae6b9d1a88429d0f619163cfd57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1008
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63ce5853eaf6d44491bb9e139d992af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5bea023f85f6242b155aa3ce70e65b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 672
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b829c66233d85d844b6b9119c98d2e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 672
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c628dc5dbcd24c90619eb8ea24db5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 672
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458150179ed17a143ac3f314889923db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 672
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70dbaa44428664889acbe30f394f12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db61e3e618402a4e9ea6ab512122b14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 336
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79a41c0fe2cbae41b5a147527debbd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 336
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93fc9f82b2b2624e9b4d4be3195b151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 336
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2a98b111147fc4cb79841347c2b94a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 336
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c0156551905e4da21b4d3da6340dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30beb72907aa8a64d93d2866e1bbec3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eeccfd73f62c5459f6f281bcac04bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c00dec38feb4a4881db7d9f8444fe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee4f1d91de61a2498a4170dddc3fb09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainsawBackstab_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012a116838acdd34e97853e176b73ca3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a35305dc063828f448c458192cb56987
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

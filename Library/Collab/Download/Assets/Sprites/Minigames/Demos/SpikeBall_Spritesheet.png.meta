@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: ddf66527f59ccfa4ab842ad7e8d42ebc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpikeBall_Spritesheet_0
+    21300002: SpikeBall_Spritesheet_1
+    21300004: SpikeBall_Spritesheet_2
+    21300006: SpikeBall_Spritesheet_3
+    21300008: SpikeBall_Spritesheet_4
+    21300010: SpikeBall_Spritesheet_5
+    21300012: SpikeBall_Spritesheet_6
+    21300014: SpikeBall_Spritesheet_7
+    21300016: SpikeBall_Spritesheet_8
+    21300018: SpikeBall_Spritesheet_9
+    21300020: SpikeBall_Spritesheet_10
+    21300022: SpikeBall_Spritesheet_11
+    21300024: SpikeBall_Spritesheet_12
+    21300026: SpikeBall_Spritesheet_13
+    21300028: SpikeBall_Spritesheet_14
+    21300030: SpikeBall_Spritesheet_15
+    21300032: SpikeBall_Spritesheet_16
+    21300034: SpikeBall_Spritesheet_17
+    21300036: SpikeBall_Spritesheet_18
+    21300038: SpikeBall_Spritesheet_19
+    21300040: SpikeBall_Spritesheet_20
+    21300042: SpikeBall_Spritesheet_21
+    21300044: SpikeBall_Spritesheet_22
+    21300046: SpikeBall_Spritesheet_23
+    21300048: SpikeBall_Spritesheet_24
+    21300050: SpikeBall_Spritesheet_25
+    21300052: SpikeBall_Spritesheet_26
+    21300054: SpikeBall_Spritesheet_27
+    21300056: SpikeBall_Spritesheet_28
+    21300058: SpikeBall_Spritesheet_29
+    21300060: SpikeBall_Spritesheet_30
+    21300062: SpikeBall_Spritesheet_31
+    21300064: SpikeBall_Spritesheet_32
+    21300066: SpikeBall_Spritesheet_33
+    21300068: SpikeBall_Spritesheet_34
+    21300070: SpikeBall_Spritesheet_35
+    21300072: SpikeBall_Spritesheet_36
+    21300074: SpikeBall_Spritesheet_37
+    21300076: SpikeBall_Spritesheet_38
+    21300078: SpikeBall_Spritesheet_39
+    21300080: SpikeBall_Spritesheet_40
+    21300082: SpikeBall_Spritesheet_41
+    21300084: SpikeBall_Spritesheet_42
+    21300086: SpikeBall_Spritesheet_43
+    21300088: SpikeBall_Spritesheet_44
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a06fbcca08e5e641aabbce349e60ed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2448
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e42796b4e5ef04d9b6adccbc918943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2448
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983b555757159264d8ec004a9ec73f57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2448
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120b36404b331f34da3e67ae7c99d166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2448
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df3bf33ae7cc5441a2519c4b81a5ee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2142
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa20bf6462ad3d14a8470746c6568f0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2142
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d7b41093357c748888afc666d7ae63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2142
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0760c5d9c09a844db586aaffccba4cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2142
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2384eceb363ca944a27b378c3ad6b26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2142
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8003bfcd40523be4c8a5ae58f0cd1f0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1836
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787f2488e39f92b44b4365f833d3b489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1836
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ea9cca740c07b4f8d0c47b79c44bca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1836
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7471deb177b51ed42ae9793db9ab0f36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1836
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3789d1ae9230e434483b221656ceddf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1836
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aa075ce3e1bba48ac7360a01163fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc870f1539251164aa2b08a72a2e36c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1530
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f4ede47312c2a408babd0c29e4df60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1530
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e834915e35c4fd458db080c33193bb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1530
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f27f84e4c1ba2848b44a99e61c1e489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1530
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59c6d9c6156b734aa58bc952ac06c77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327b78b0090bc4408ae68bbe302aa12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1224
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddc2c4210b3cc5468ee403decaab386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1224
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a25c3e141ef52458d837973d8b9a2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1224
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e9903ce198ad54da47509b5b195635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1224
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e6496d05f57cb488b3bf6c99639b78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8879ba6dc615094281d2d97005ef97e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 918
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eb6dd7b4fc7d64a85fb97842c9d82c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 918
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aeac7e73510fd479df6577edfb4a15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 918
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d0bad963b6b2b43993c381514309cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 918
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442a6d5b383f3d541b07f54d6c66cbbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8184aecd1821c88489594d2c90b02d9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 612
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd0bd45d8059e04eb771ed7f7ab9589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 612
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b783cc45496f24549995cec31be8a1ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 612
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cefdc9fc2a1f7e45bd0674faf61f7e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 612
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6663ac2f26e94eaf1f9c59b0a52cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27023151b84c054eb2bdc7a5e9ac65f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 306
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba311550d2ab544488e2924472cd011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 306
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d5eb4518793f408b075c98e0c143a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 306
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affa05d280770104bbf75f64f2257c81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 306
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fc5189a6b9282448fcc3b40175dbf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a5eeb2be91894bb5c8961dd6fb7f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c19a9e0ccd8184c9cd748a0c5c6ab6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649314315bfaa594ab37db7fb9c2ccac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148ffc67542984b41b01ca381207167f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeBall_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0583a3191e98a3469fd4e662fbb5e4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e6ee08d05fb2f4042b35926cab88efe5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

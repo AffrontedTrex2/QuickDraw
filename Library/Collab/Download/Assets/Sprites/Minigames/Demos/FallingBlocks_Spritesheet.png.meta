@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: efef830ce1e409b49bfc4c53033be5b5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FallingBlocks_Spritesheet_0
+    21300002: FallingBlocks_Spritesheet_1
+    21300004: FallingBlocks_Spritesheet_2
+    21300006: FallingBlocks_Spritesheet_3
+    21300008: FallingBlocks_Spritesheet_4
+    21300010: FallingBlocks_Spritesheet_5
+    21300012: FallingBlocks_Spritesheet_6
+    21300014: FallingBlocks_Spritesheet_7
+    21300016: FallingBlocks_Spritesheet_8
+    21300018: FallingBlocks_Spritesheet_9
+    21300020: FallingBlocks_Spritesheet_10
+    21300022: FallingBlocks_Spritesheet_11
+    21300024: FallingBlocks_Spritesheet_12
+    21300026: FallingBlocks_Spritesheet_13
+    21300028: FallingBlocks_Spritesheet_14
+    21300030: FallingBlocks_Spritesheet_15
+    21300032: FallingBlocks_Spritesheet_16
+    21300034: FallingBlocks_Spritesheet_17
+    21300036: FallingBlocks_Spritesheet_18
+    21300038: FallingBlocks_Spritesheet_19
+    21300040: FallingBlocks_Spritesheet_20
+    21300042: FallingBlocks_Spritesheet_21
+    21300044: FallingBlocks_Spritesheet_22
+    21300046: FallingBlocks_Spritesheet_23
+    21300048: FallingBlocks_Spritesheet_24
+    21300050: FallingBlocks_Spritesheet_25
+    21300052: FallingBlocks_Spritesheet_26
+    21300054: FallingBlocks_Spritesheet_27
+    21300056: FallingBlocks_Spritesheet_28
+    21300058: FallingBlocks_Spritesheet_29
+    21300060: FallingBlocks_Spritesheet_30
+    21300062: FallingBlocks_Spritesheet_31
+    21300064: FallingBlocks_Spritesheet_32
+    21300066: FallingBlocks_Spritesheet_33
+    21300068: FallingBlocks_Spritesheet_34
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2166
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa3b0194ada6b419b49201ed89b898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2166
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8012765cdde9cc040bb467de75f488aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2166
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9231ca4aab16e44886b64a350d9633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2166
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9006adaaff2629249935f8cc15fa4ee9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2166
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c6a4f837e04204d864dbe417444daa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1805
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ea32007bfe68b4c8476455bd4332eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1805
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb7bc3ee1d44eb46b97fe425454160c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1805
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf90fdcc1da6a4a4e9d25f10933ba6ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1805
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27d7a0c6f68c774fba8e9eedf94f784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1805
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1142865a8527c4eb0b0e8785540593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1444
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4901781e9ca85d34ea0c22adca07ae51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1444
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47598d34f7385b84e8162c1df1ae2679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1444
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192c1c00782d3e64997b119fcc30ce6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1444
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e45c88e45516142bee91bfa0594ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1444
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbad8162c90d944cadc2bda3e93a218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1083
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3bf142146fba94281d63458f6834d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1083
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feec12d7ce57562479207034e1cae4bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1083
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49056bfa373d0b3448c9b3060ab4f108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1083
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b2b8b2ca1078f4592618f3a7285eb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1083
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c45acbc27af8f4992bb6db1463c130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a805592973fe947895f4dd42c4cb14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 722
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fce0ea0bd54c0048bfcbd26953c5ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 722
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8e2e76246ee3148a9431b3f6334740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 722
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b462db9451189ef4ba96cb5a2bb616c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 722
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e46d997b5dde44e9dd95778b52527d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9bd89efbc04574899d8b57aaac726a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 361
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8794a298076bd4cbaffdc91440eb8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 361
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe556527250a0341b87e1bb4b63c6df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 361
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7800ef500773a7c4882b573b4bd5c4eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 361
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512123519cf47d841a5557811491afa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df39994d28f17b448979b2073736027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cb3b1869684e5448fabb2babce7389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181a14a86e459bb4896d2e757f1c5bbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007cdab6b45fc8d43a649f752edf3196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingBlocks_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0316b516a1ceba64cae08e7d71d09266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 24a84312b0398e64a91215bdb89ef84a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

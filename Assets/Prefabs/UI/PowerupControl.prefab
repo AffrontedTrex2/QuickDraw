@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1528653457440444}
+  m_IsPrefabAsset: 1
+--- !u!1 &1528653457440444
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4141269313971866}
+  - component: {fileID: 114357572790542444}
+  - component: {fileID: 114884124301191250}
+  - component: {fileID: 114936612889214446}
+  - component: {fileID: 114279088592046070}
+  m_Layer: 0
+  m_Name: PowerupControl
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4141269313971866
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1528653457440444}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114279088592046070
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1528653457440444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcba0a112ed49924db7ef593a7bf5999, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  winner: {fileID: 0}
+--- !u!114 &114357572790542444
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1528653457440444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 332a0801334670645990285724c0df25, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  quickdrawObj: {fileID: 0}
+  animationFinished: 0
+--- !u!114 &114884124301191250
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1528653457440444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98a402b10936144e87f2e9765c31e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  burningIcon: {fileID: 21300000, guid: bb89be6fda928b649bfc17eded9755de, type: 3}
+  highJumpIcon: {fileID: 21300000, guid: 1f05639077222554ab922b7777c1161a, type: 3}
+  hiccupIcon: {fileID: 21300000, guid: 16a19b675b5b235439e1af361a9a4f45, type: 3}
+  drunkIcon: {fileID: 21300000, guid: f813315a3dcea9e4e8f301181fa19ba9, type: 3}
+  stompIcon: {fileID: 21300000, guid: bec53175ef150654c9b32dd52291dbb6, type: 3}
+  doubleJumpIcon: {fileID: 21300000, guid: 379100566507ef04ba8641cd624ec834, type: 3}
+  jetpackIcon: {fileID: 21300000, guid: c8d5809ec7110f047885291d07e5fcda, type: 3}
+  hauntedIcon: {fileID: 21300000, guid: f13817de24835f94f8c1a505971c8b72, type: 3}
+  lowGravityIcon: {fileID: 21300000, guid: 64e6a3465f3c4f64087e745f4d966b2d, type: 3}
+  ghostModeIcon: {fileID: 21300000, guid: a652a6c0c2d97724c8ca768513d7bd4d, type: 3}
+  feetLaserIcon: {fileID: 21300000, guid: b2e315dae84f2d94699f0e68bb52114e, type: 3}
+  jumpShotIcon: {fileID: 21300000, guid: 6478b9f920795aa409180cc77912ab95, type: 3}
+  tallIcon: {fileID: 21300000, guid: ac0fd96747cc2374bb82462e36aedec4, type: 3}
+  burningPrefab: {fileID: 1527619420617986, guid: e4899a7309c74b5419a6c2e7b05beb28,
+    type: 2}
+  hiccupPrefab: {fileID: 1175362961705160, guid: 3b275d636db6e024091fae52fb55c107,
+    type: 2}
+  drunkPrefab: {fileID: 1091893604849130, guid: 2502ca6766c46264a91ccb690611be38,
+    type: 2}
+  jetpackPrefab: {fileID: 1814112643463024, guid: c0e706a0c0fe40f4eb1d590b131b7cf8,
+    type: 2}
+  ghostPrefab: {fileID: 1301555968118304, guid: 1f5b96c4b3b7cc3429f5fc637d5d8e5f,
+    type: 2}
+  feetLaserPrefab: {fileID: 1731544315581978, guid: 03f209bf491fa774cb60b86de2558202,
+    type: 2}
+--- !u!114 &114936612889214446
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1528653457440444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b54b7be0dea14e4383a7c704b20e978, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  powerupUI: {fileID: 0}
+  icon: {fileID: 0}
+  winnerText: {fileID: 0}
+  nameText: {fileID: 0}
+  descriptionText: {fileID: 0}
+  getPowerupUI: {fileID: 0}
+  getIcon: {fileID: 0}
+  getText: {fileID: 0}
